@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on becoming an all-star developer!
+- 🌱 I’m currently learning prgramming languages, such as Javascript!
+- 🤝 I’m looking to collaborate on projects to help companies improve their operations/products!
+- 🤔 I’m looking for help with finding any and all resources that may be of use in my devlopment journey!
+- 💬 Ask me about anything you think I may be intersted in!
+- 📫 How to reach me: sberhane43@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was born and raised in Silicon Valley!
 
 <!--
 **solomonberhane/solomonberhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
